@@ -10,6 +10,6 @@ Essay on the Agile Philosophy
 
 In my Agile essay, I will be discussing about how running daily stand-ups in virtual office settings - such as Slack - influences time-boxing and team productivity. 
 
-I will go in depth about how virtual tools such as Slack, among others, go in conjunction with time management both for small and complex projects, as well as team productivity and how much potential impact it can evoke. 
+I will go in depth about how virtual tools such as Slack, among others, go in conjunction with time management both for small and complex projects, as well as the potential impact they can evoke on team productivity.
 
 The major reason to why I have chosen to explore this specific topic is due to the fact that I have a fair amount of experience when it comes to using Slack for daily stand-ups, even more so when it comes to time management, like when or what to prioritize in a project in order to fit and deliver everything before or at the deadline. Team productivity also applies here, as it eventually becomes very apparent how much influence it has, which is also based on my personal experience. 
