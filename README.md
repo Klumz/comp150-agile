@@ -13,4 +13,4 @@ Essay on the Agile Philosophy
 
 [1]: 
 
-"The term “intelligent building” is used to represent this empowered business environment in a physical building. Intelligent buildings offer a comfortable and productivity-enhancing environment for the business people who work there and make full and frequent use of electronic tools."
+"Computer systems and telecommunication networks make it possible to use these electronic tools more efficiently. The term “intelligent building” is used to represent this empowered business environment in a physical building. Intelligent buildings offer a comfortable and productivity-enhancing environment for the business people who work there and make full and frequent use of electronic tools."
