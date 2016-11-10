@@ -1,7 +1,7 @@
 # comp150-agile
 Essay on the Agile Philosophy
 
-(Needs editing)
+Sources:
 
 [1] T. Kishimoto, G. Suzuki, "Virtual Offices", IEEE Communications Magazine, pp. 36-38, Volume: 31, Issue: 10, Oct. 1993
 
