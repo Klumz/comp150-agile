@@ -10,8 +10,7 @@ Essay on the Agile Philosophy
 [3] Geetika Sharma, Gautam Shroff and Prasun Dewan, "Workplace collaboration in a 3D Virtual Office", VR Innovation (ISVRI), 2011 IEEE International Symposium on, pp. 3-10, 19-20 March, 
 
 
-
-[1]: Virtual Offices (Continue at "Necessary Functions for the Human Communication Environment"):
+[1]: VIRTUAL OFFICES (continue at "Necessary Functions for the Human Communication Environment"):
 
 "Computer systems and telecommunication networks make it possible to use these electronic tools more efficiently. The term “intelligent building” is used to represent this empowered business environment in a physical building. Intelligent buildings offer a comfortable and productivity-enhancing environment for the business people who work there and make full and frequent use of electronic tools."
 
