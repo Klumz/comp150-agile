@@ -19,3 +19,6 @@ Sources:
 
 "Various media and modes, such as voice, non-verbal gestures, drawings, eye movement, text, and paper, are used for communication in real space. Existing communication tools are designed for each media separately. The user has to change tools depending on the media and communication modes. Therefore, communication tools that can support various media continuously and consistently are necessary." 
 - What I said on the previous paragraph also applies here. Today we have virtual tools that go in conjunction with the various media and modes that were mentioned, one of the more prominent ones being video calls, which is something Skype - among others - supports.
+
+"A concept for a new business communication environment has been proposed. The proposed system is a shared and interactive multi-user virtual space that consists of a CG-based virtual-space and video-based objects. This combination results in an extremely flexible environment for remote human collaboration. The human interface of walking and interacting within the virtual space offers a new dimension in daily communication activities. This feature should play an important role in future communication services."
+- So..something like an MMORPG game, but more casual and for business?
