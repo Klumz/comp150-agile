@@ -22,3 +22,7 @@ Sources:
 
 "A concept for a new business communication environment has been proposed. The proposed system is a shared and interactive multi-user virtual space that consists of a CG-based virtual-space and video-based objects. This combination results in an extremely flexible environment for remote human collaboration. The human interface of walking and interacting within the virtual space offers a new dimension in daily communication activities. This feature should play an important role in future communication services."
 - So..something like an MMORPG game, but more casual and for business?
+
+[2]: ON MEASURING PROGRAMMER TEAM PRODUCTIVITY (start here):
+
+
