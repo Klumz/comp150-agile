@@ -3,7 +3,7 @@ How does running daily stand-ups in a virtual office setting, using tools such a
 
 Sources:
 
-[1] T. Kishimoto, G. Suzuki, "[Virtual Offices]" (http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/237980/), IEEE Communications Magazine, pp. 36-38, Volume: 31, Issue: 10, Oct. 1993
+[1] T. Kishimoto, G. Suzuki, ["Virtual Offices"] (http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/237980/), IEEE Communications Magazine, pp. 36-38, Volume: 31, Issue: 10, Oct. 1993
 
 [2] L.F. Johnson, "On measuring programmer team productivity", Electrical and Computer Engineering, 1998. IEEE Canadian Conference on, pp. 701–705, 25-28 May 1998 
 
