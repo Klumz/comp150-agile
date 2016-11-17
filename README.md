@@ -7,7 +7,14 @@ Sources:
 
 [2] L.F. Johnson, "On measuring programmer team productivity", Electrical and Computer Engineering, 1998. IEEE Canadian Conference on, pp. 701–705, 25-28 May 1998 
 
-[3] Geetika Sharma, Gautam Shroff and Prasun Dewan, "Workplace collaboration in a 3D Virtual Office", VR Innovation (ISVRI), 2011 IEEE International Symposium on, pp. 3-10, 19-20 March, 
+[3] Geetika Sharma, Gautam Shroff and Prasun Dewan, "Workplace collaboration in a 3D Virtual Office", VR Innovation (ISVRI), 2011 IEEE International Symposium on, pp. 3-10, 19-20 March
+
+[4] Back to Basics: The Role of Agile Principles in Success with an Distributed Scrum Team (needs additional info)
+
+[5] Virtual meetings: not just an option any more! (needs additional info)
+
+[6] Improving Project Communication with Virtual Team Boards (needs additional info)
+
 
 
 [1]: VIRTUAL OFFICES (finished):
