@@ -1,5 +1,5 @@
 # comp150-agile
-Essay on the Agile Philosophy
+How does running daily stand-ups in a virtual office setting, using tools such as Slack, influence time-boxing and team productivity?
 
 Sources:
 
