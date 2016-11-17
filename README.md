@@ -5,15 +5,15 @@ Sources:
 
 [1] T. Kishimoto, G. Suzuki, ["Virtual Offices"] (http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/237980/), IEEE Communications Magazine, pp. 36-38, Volume: 31, Issue: 10, Oct. 1993
 
-[2] L.F. Johnson, "On measuring programmer team productivity", Electrical and Computer Engineering, 1998. IEEE Canadian Conference on, pp. 701–705, 25-28 May 1998 
+[2] L.F. Johnson, ["On measuring programmer team productivity"] (http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/685594/), Electrical and Computer Engineering, 1998. IEEE Canadian Conference on, pp. 701–705, 25-28 May 1998 
 
-[3] Geetika Sharma, Gautam Shroff and Prasun Dewan, "[Workplace collaboration in a 3D Virtual Office]" (http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/5759582/), VR Innovation (ISVRI), 2011 IEEE International Symposium on, pp. 3-10, 19-20 March
+[3] Geetika Sharma, Gautam Shroff and Prasun Dewan, ["Workplace collaboration in a 3D Virtual Office"] (http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/5759582/), VR Innovation (ISVRI), 2011 IEEE International Symposium on, pp. 3-10, 19-20 March
 
-[4] Back to Basics: The Role of Agile Principles in Success with an Distributed Scrum Team (needs additional info)
+[4] ["Back to Basics: The Role of Agile Principles in Success with an Distributed Scrum Team"] (http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/4293626/) (needs additional info)
 
-[5] Virtual meetings: not just an option any more! (needs additional info)
+[5] ["Virtual meetings: not just an option any more!"] (http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/1252311/) (needs additional info)
 
-[6] Improving Project Communication with Virtual Team Boards (needs additional info)
+[6] ["Improving Project Communication with Virtual Team Boards"] (http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/6337316/) (needs additional info)
 
 
 
