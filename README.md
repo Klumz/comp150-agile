@@ -19,7 +19,7 @@ Sources:
 
 #### [1]: VIRTUAL OFFICES (finished):
 
-This document revealed the lack of virtual business communication environments. The authors emphasised the need and proposal for new business communication environments consisting of shared and interactive multiuser virtual spaces that consists of computer-graphics-based virtual space and video-based objects. They later concluded that if it were to be applied properly, this combination could result in an extremely flexible environment for remote human collaboration.
+This paper revealed the lack of virtual business communication environments during the time the paper was written. The authors emphasised the need and proposal for new business communication environments consisting of shared and interactive multiuser virtual spaces that consists of computer-graphics-based virtual space and video-based objects. They later concluded that if it were to be applied properly, this combination could result in an extremely flexible environment for remote human collaboration.
 
 
 #### Quotes
