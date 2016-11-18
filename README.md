@@ -39,6 +39,10 @@ This paper revealed the lack of virtual business communication environments duri
 
 #### [6]: IMPROVING PROJECT COMMUNICATION WITH VIRTUAL TEAM BOARDS (finished):
 
+This paper reinforced the importance of user stories and how a good understanding of them can lead to project success. 
+
+
+#### Quotes
 "Many tools for the visualization of story cards, however, do not exploit all features of these cards. Often, story cards are presented in lists, tables or other fixed structures."
 - While "Trello" (among others) is organised in a number of lists or tables, it is quite versatile in terms of letting users use various features for their cards.
 
