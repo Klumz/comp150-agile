@@ -19,6 +19,11 @@ Sources:
 
 #### [1]: VIRTUAL OFFICES (finished):
 
+This document revealed the lack of virtual business communication environments. The authors emphasised the need and proposal for new business communication environments consisting of shared and interactive multiuser virtual spaces that consists of computer-graphics-based virtual space and video-based objects. They later concluded that if it were to be applied properly, this combination could result in an extremely flexible environment for remote human collaboration.
+
+
+#### Quotes
+
 "Computer systems and telecommunication networks make it possible to use these electronic tools more efficiently. The term “intelligent building” is used to represent this empowered business environment in a physical building. Intelligent buildings offer a comfortable and productivity-enhancing environment for the business people who work there and make full and frequent use of electronic tools."
 
 "Existing communication tools are designed only for planned communication, where, for instance, a user must decide the party (i.e., telephone number) and topic before making the telephone call. New seamless communication tools for casual communication are therefore necessary." 
