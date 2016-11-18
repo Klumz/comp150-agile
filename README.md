@@ -32,6 +32,9 @@ Sources:
 
 #### [2]: ON MEASURING PROGRAMMER TEAM PRODUCTIVITY:
 
-#### [6]: IMPROVING PROJECT COMMUNICATION WITH VIRTUAL TEAM BOARDS:
+#### [6]: IMPROVING PROJECT COMMUNICATION WITH VIRTUAL TEAM BOARDS (finished):
+
+"Many tools for the visualization of story cards, however, do not exploit all features of these cards. Often, story cards are presented in lists, tables or other fixed structures."
+- While "Trello" (among others) is organised in a number of lists or tables, it is quite versatile in terms of letting users use various features for their cards.
 
 
