@@ -46,4 +46,5 @@ This paper reinforced the importance of user stories and how a good understandin
 "Many tools for the visualization of story cards, however, do not exploit all features of these cards. Often, story cards are presented in lists, tables or other fixed structures."
 - While "Trello" (among others) is organised in a number of lists or tables, it is quite versatile in terms of letting users use various features for their cards.
 
-
+# Essay stuff
+For this essay, I will be using and answering the following research question: How does running daily stand-ups in a virtual office setting, using tools such as Slack, influence time-boxing and team productivity? I will be focusing on how it influences time-boxing & team productivity, the importance of using virtual tools and the various effects it inflicts on different people. I have chosen to explore this question because I feel like I have enough personal experience to discuss about this certain topic, something that I think will reinforce my facts and opinions. Additionally, I believe it to be an especially important topic in today's world of business and technology, where we can merge both to provide and receive good and realistically timed products. 
