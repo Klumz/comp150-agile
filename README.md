@@ -9,12 +9,11 @@ Sources:
 
 [3] Geetika Sharma, Gautam Shroff and Prasun Dewan, ["Workplace collaboration in a 3D Virtual Office"] (http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/5759582/), VR Innovation (ISVRI), 2011 IEEE International Symposium on, pp. 3-10, 19-20 March
 
-[4] ["Back to Basics: The Role of Agile Principles in Success with an Distributed Scrum Team"] (http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/4293626/) (needs additional info)
+[4] Steve Berczuk, ["Back to Basics: The Role of Agile Principles in Success with an Distributed Scrum Team"] (http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/4293626/), Agile Conference (AGILE) 2007, pp. 1-6, 13-17 Aug. 2007
 
-[5] ["Virtual meetings: not just an option any more!"] (http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/1252311/) (needs additional info)
+[5] ["Virtual meetings: not just an option any more!"] (http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/1252311/), Engineering Management Conference, 2003. IEMC '03. Managing Technologically Driven Organizations: The Human Side of Innovation and Change, pp. 443-447, 2-4 Nov. 2003
 
-[6] ["Improving Project Communication with Virtual Team Boards"] (http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/6337316/) (needs additional info)
-
+[6] ["Improving Project Communication with Virtual Team Boards"] (http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/6337316/), Global Software Engineering Workshops (ICGSEW), 2012 IEEE Seventh International Conference on, pp. 35-36, 27-30 Aug. 2012
 
 
 #### [1]: VIRTUAL OFFICES (finished):
