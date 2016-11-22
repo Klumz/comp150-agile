@@ -3,17 +3,17 @@ How does running daily stand-ups in a virtual office setting, using tools such a
 
 Sources:
 
-[1] T. Kishimoto, G. Suzuki, ["Virtual Offices"] (http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/237980/), IEEE Communications Magazine, pp. 36-38, Volume: 31, Issue: 10, Oct. 1993
+[1] T. Kishimoto, G. Suzuki, ["Virtual Offices"] (http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/237980/) in IEEE Communications Magazine, vol. 31, no. 10, pp. 36-38, Oct. 1993.
 
-[2] L.F. Johnson, ["On measuring programmer team productivity"] (http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/685594/), Electrical and Computer Engineering, 1998. IEEE Canadian Conference on, pp. 701–705, 25-28 May 1998 
+[2] L.F. Johnson, ["On measuring programmer team productivity"] (http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/685594/), Conference Proceedings. IEEE Canadian Conference on Electrical and Computer Engineering (Cat. No.98TH8341), Waterloo, Ont., 1998, pp. 701-705 vol.2.
 
-[3] Geetika Sharma, Gautam Shroff and Prasun Dewan, ["Workplace collaboration in a 3D Virtual Office"] (http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/5759582/), VR Innovation (ISVRI), 2011 IEEE International Symposium on, pp. 3-10, 19-20 March
+[3] Geetika Sharma, Gautam Shroff and Prasun Dewan, ["Workplace collaboration in a 3D Virtual Office"] (http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/5759582/), 2011 IEEE International Symposium on VR Innovation, Singapore, 2011, pp. 3-10.
 
-[4] Steve Berczuk, ["Back to Basics: The Role of Agile Principles in Success with an Distributed Scrum Team"] (http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/4293626/), Agile Conference (AGILE) 2007, pp. 1-6, 13-17 Aug. 2007
+[4] Steve Berczuk, ["Back to Basics: The Role of Agile Principles in Success with an Distributed Scrum Team"] (http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/4293626/), Agile 2007 (AGILE 2007), Washington, DC, 2007, pp. 382-388.
 
-[5] ["Virtual meetings: not just an option any more!"] (http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/1252311/), Engineering Management Conference, 2003. IEMC '03. Managing Technologically Driven Organizations: The Human Side of Innovation and Change, pp. 443-447, 2-4 Nov. 2003
+[5] ["Virtual meetings: not just an option any more!"] (http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/1252311/), Engineering Management Conference, 2003. IEMC '03. Managing Technologically Driven Organizations: The Human Side of Innovation and Change, 2003, pp. 443-447.
 
-[6] ["Improving Project Communication with Virtual Team Boards"] (http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/6337316/), Global Software Engineering Workshops (ICGSEW), 2012 IEEE Seventh International Conference on, pp. 35-36, 27-30 Aug. 2012
+[6] ["Improving Project Communication with Virtual Team Boards"] (http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/6337316/), Global Software Engineering Workshops (ICGSEW), 2012 IEEE Seventh International Conference on Global Software Engineering Workshops, Porto Alegre, 2012, pp. 35-36.
 
 
 #### [1]: VIRTUAL OFFICES (finished):
