@@ -53,11 +53,11 @@ In the vast field of computer science including software development, computer n
 
 Introduction:
 
-The various topics that will be tackled are as follow: how virtual tools influence time-boxing & team productivity, the importance of using virtual tools and the various effects they evoke on different people. Furthermore, agile processes in the game development industry that emphasise teamwork and communication will be also addressed. These have been chosen to be explored as a result of personal experience and evidence from the referenced papers, something that will reinforce the facts and reasons discussed further below. Additionally, it is an especially important issue in today's world of business and technology, where we can merge both to provide and receive high quality and realistically timed products. 
+In conjunction with the research question, the various topics that will be tackled are as follow: how virtual tools influence time-boxing & team productivity, the importance of using virtual tools and the various effects they evoke on different personality traits. Furthermore, agile processes in the game development industry that emphasise teamwork and communication will be also addressed. These have been chosen to be explored as a result of personal experience and evidence from the referenced papers, something that will reinforce the facts and reasons discussed in this paper. Additionally, it is an especially important issue in today's world of business and technology, where we can merge both to provide and receive high quality and realistically timed products. 
 
 Main:
 
-Firstly, agile processes rely on feedback and communication to work and they often work best with co-located teams for this reason [4].
+Firstly, it is important to note that agile processes rely on feedback and team communication to work [4]. An example of such a process 
 
 Secondly, one could argue that virtual tools are not essential. They are not required at all if, say, a team is fine at their current state of productivity. Why change what's not broken? Although, while it may temporarily tamper with progress, learning to cope and adapt to using virtual tools can vastly improve time-boxing which thereafter positively affects team productivity. Even if it is minimal, simply communicating for a maximum of 5 minutes with colleagues about current tasks and barriers is enough to provide information to the rest of the group, which they in turn could lend some assistance in if needed. This has an excellent effect in the long run, as it develops a sense of positivity and reassurance amongst group members, resulting in elevated levels of team productivity, which consecutively decreases the potential problems that could arise in terms of time-boxing.  
 
