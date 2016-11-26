@@ -49,7 +49,7 @@ This paper reinforced the importance of user stories and how a good understandin
 # Essay stuff
 Abstract:
 
-In the vast field of computer science including software development, computer networks, and many other computing areas, one is guaranteed to encounter barriers and time constraints whether they are expected or not. Suddenly a colleague is absent one day, forcing you to improvise and finish up the rest of the group work before the approaching deadline, or maybe you are having an internal problem that is considerably prohibiting team productivity. For these reasons, the following research question that will be addressed is: **How does running daily stand-ups in a virtual office setting, using tools such as Slack, influence time-boxing and team productivity?** 
+In the vast field of computer science including software development, computer networks, and many other computing areas, one is guaranteed to encounter barriers and time constraints whether they are expected or not. Suddenly a colleague is absent one day, forcing you to improvise and finish up the rest of the group work before the approaching deadline, or maybe you are having an internal problem that is considerably prohibiting team productivity. For these reasons, the following research question that will be addressed is this: **How does running daily stand-ups in a virtual office setting, using tools such as Slack, influence time-boxing and team productivity?** 
 
 Introduction:
 
