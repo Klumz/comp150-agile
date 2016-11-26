@@ -53,7 +53,7 @@ In the vast field of computer science including software development, computer n
 
 Introduction:
 
-The various topics that will be tackled are as follow: how virtual tools influence time-boxing & team productivity, the importance of using virtual tools and the various effects they evoke on different people. Furthermore, agile processes in the game development industry that emphasise teamwork and communication will be also addressed. These have been chosen to be explored as a result of personal experience and evidence from the referenced papers, something that will reinforce the facts and reasons stated further below. Additionally, it is an especially important issue in today's world of business and technology, where we can merge both to provide and receive high quality and realistically timed products. 
+The various topics that will be tackled are as follow: how virtual tools influence time-boxing & team productivity, the importance of using virtual tools and the various effects they evoke on different people. Furthermore, agile processes in the game development industry that emphasise teamwork and communication will be also addressed. These have been chosen to be explored as a result of personal experience and evidence from the referenced papers, something that will reinforce the facts and reasons discussed further below. Additionally, it is an especially important issue in today's world of business and technology, where we can merge both to provide and receive high quality and realistically timed products. 
 
 Main:
 
