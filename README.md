@@ -48,12 +48,15 @@ This paper reinforced the importance of user stories and how a good understandin
 ----------------------------------------------------------------------------------------------------------------------------------------
 # Essay stuff
 Abstract:
+
 In the vast field of computer science including software development, computer networks, and many other computing areas, one is guaranteed to encounter barriers and time constraints whether they are expected or not. Suddenly a colleague is absent one day, forcing you to improvise and finish up the rest of the group work before the approaching deadline, or maybe you are having an internal problem that is considerably prohibiting team productivity. For these reasons, the following research question that will be addressed is: **How does running daily stand-ups in a virtual office setting, using tools such as Slack, influence time-boxing and team productivity?** 
 
 Introduction:
+
 The various topics that will be tackled are as follow: how virtual tools influence time-boxing & team productivity, the importance of using virtual tools and the various effects they evoke on different people. Furthermore, agile processes in the game development industry that emphasise teamwork and communication will be also addressed. These have been chosen to be explored as a result of personal experience and evidence from the referenced papers, something that will reinforce the facts and reasons stated further below. Additionally, it is an especially important issue in today's world of business and technology, where we can merge both to provide and receive high quality and realistically timed products. 
 
 Main:
+
 Firstly, 
 
 Secondly, you could argue that virtual tools are not essential. They are not required at all if, say, a team is fine at their current state of productivity. Why change what's not broken? Although, while it may temporarily tamper with progress, learning to cope and adapt to using virtual tools can vastly improve time-boxing, which thereafter positively affects team productivity. Even if it is minimal, simply communicating for a maximum of 5 minutes with your colleagues about your tasks and barriers is enough to provide information to the rest of the group, which they in turn could lend some assistance in if needed. This has an excellent effect in the long run, as it develops a sense of positivity and reassurance amongst group members, resulting in elevated levels of team productivity, which consecutively decreases the potential problems that could arise in terms of time-boxing.  
