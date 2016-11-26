@@ -57,7 +57,7 @@ The various topics that will be tackled are as follow: how virtual tools influen
 
 Main:
 
-Firstly, 
+Firstly, agile processes rely on feedback and communication to work and they often work best with co-located teams for this reason [4].
 
 Secondly, one could argue that virtual tools are not essential. They are not required at all if, say, a team is fine at their current state of productivity. Why change what's not broken? Although, while it may temporarily tamper with progress, learning to cope and adapt to using virtual tools can vastly improve time-boxing which thereafter positively affects team productivity. Even if it is minimal, simply communicating for a maximum of 5 minutes with colleagues about current tasks and barriers is enough to provide information to the rest of the group, which they in turn could lend some assistance in if needed. This has an excellent effect in the long run, as it develops a sense of positivity and reassurance amongst group members, resulting in elevated levels of team productivity, which consecutively decreases the potential problems that could arise in terms of time-boxing.  
 
