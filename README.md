@@ -13,6 +13,8 @@ Sources:
 
 [6] ["Improving Project Communication with Virtual Team Boards"] (http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/6337316/), Global Software Engineering Workshops (ICGSEW), 2012 IEEE Seventh International Conference on Global Software Engineering Workshops, Porto Alegre, 2012, pp. 35-36.
 
+[7] ["Agile Practices: The Impact on Trust in Software Project Teams"] (http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/6007124/), O. McHugh, K. Conboy and M. Lang, "Agile Practices: The Impact on Trust in Software Project Teams," in IEEE Software, vol. 29, no. 3, pp. 71-76, May-June 2012.
+
 
 # Essay stuff (wip)
 Abstract:
