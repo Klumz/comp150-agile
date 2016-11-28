@@ -36,3 +36,4 @@ Personality traits have been attractive aspects of discussions in the computing 
 
 
 Conclusion:
+Using virtuals tools - such as running daily stand-ups in a virtual setting - has multiple potential outcomes for different teams and people. While the Agile methodology seems to commend extrovertism, introverts have the possibility of adapting to it through different means, such as using virtual tools for daily stand-ups in, say, Slack, where the need for unceasing communication is needless. 
