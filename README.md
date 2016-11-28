@@ -15,6 +15,8 @@ Sources:
 
 [7] Orla McHugh, Kieran Conboy and Michael Lang, ["Agile Practices: The Impact on Trust in Software Project Teams"] (http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/6007124/), "Agile Practices: The Impact on Trust in Software Project Teams," in IEEE Software, vol. 29, no. 3, pp. 71-76, May-June 2012.
 
+[8] Clinton Keith. 2010. [Agile Game Development with Scrum](http://dl.acm.org/citation.cfm?id=1830460) (1st ed.). Addison-Wesley Professional.
+
 
 # Essay stuff (wip)
 Abstract:
