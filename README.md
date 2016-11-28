@@ -1,7 +1,7 @@
 # comp150-agile
 Sources:
 
-[1] P. Wojahn, S. K. Taylor and K. Blicharz, ["Forming groups into teams through virtual interactions: Researching remote collaborators and “getting to know you”](http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/5530009/)," 2010 IEEE International Professional Comunication Conference, Enschede, Netherlands, 2010, pp. 203-209.
+[1] P. Wojahn, S. K. Taylor and K. Blicharz, ["Forming groups into teams through virtual interactions: Researching remote collaborators and “getting to know you”](http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/5530009/)", 2010 IEEE International Professional Comunication Conference, Enschede, Netherlands, 2010, pp. 203-209.
 
 [2] Steve Berczuk, ["Back to Basics: The Role of Agile Principles in Success with an Distributed Scrum Team"] (http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/4293626/), Agile 2007 (AGILE 2007), Washington, DC, 2007, pp. 382-388.
 
